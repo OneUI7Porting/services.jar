@@ -1,0 +1,13 @@
+.class public final Lcom/android/server/os/BugreportManagerServiceImpl$Injector;
+.super Ljava/lang/Object;
+.source "qb/89523975 b19e8d3036bb0bb04c0b123e55579fdc5d41bbd9c06260ba21f1b25f8ce00bef"
+
+
+# instance fields
+.field public mAllowlistedPackages:Landroid/util/ArraySet;
+
+.field public mContext:Landroid/content/Context;
+
+.field public mMappingFile:Landroid/util/AtomicFile;
+
+.field public mRoleManagerWrapper:Lcom/android/server/os/BugreportManagerServiceImpl$Injector$RoleManagerWrapper;
